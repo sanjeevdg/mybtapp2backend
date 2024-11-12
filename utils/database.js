@@ -2,7 +2,7 @@ const {Sequelize} = require('sequelize');
 
 
 
-const sequelize = new Sequelize('neondb', 'sanjeev.dasgupta', '6jNiyWEKxoA1', {
+const sequelize = new Sequelize('neondb', 'sanjeev.dasgupta', 'O2iAgXxL6dcu', {
     dialect: 'postgres',
     dialectOptions: {
     ssl: {
